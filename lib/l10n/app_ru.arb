@@ -1,0 +1,12 @@
+{
+  "appBarTitle": "MH:MX",
+  "minor": "минор",
+  "minors": "миноры",
+  "determinant": "определитель",
+  "addons": "дополнения",
+  "oppositeMatrix": "обратная матрица",
+  "kramerMethod": "метод Крамера",
+  "history": "история",
+  "answers": "ответы",
+  "showSolution": "показать решение"
+}
